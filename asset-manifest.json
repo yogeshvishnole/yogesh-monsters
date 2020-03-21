@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yogesh-monsters/static/css/main.62d87302.chunk.css",
+    "main.js": "/yogesh-monsters/static/js/main.bf66b918.chunk.js",
+    "main.js.map": "/yogesh-monsters/static/js/main.bf66b918.chunk.js.map",
+    "runtime~main.js": "/yogesh-monsters/static/js/runtime~main.4d959f97.js",
+    "runtime~main.js.map": "/yogesh-monsters/static/js/runtime~main.4d959f97.js.map",
+    "static/js/2.b67fbdca.chunk.js": "/yogesh-monsters/static/js/2.b67fbdca.chunk.js",
+    "static/js/2.b67fbdca.chunk.js.map": "/yogesh-monsters/static/js/2.b67fbdca.chunk.js.map",
+    "index.html": "/yogesh-monsters/index.html",
+    "precache-manifest.25fd4d924ad249efa1e9c92f04d28b76.js": "/yogesh-monsters/precache-manifest.25fd4d924ad249efa1e9c92f04d28b76.js",
+    "service-worker.js": "/yogesh-monsters/service-worker.js",
+    "static/css/main.62d87302.chunk.css.map": "/yogesh-monsters/static/css/main.62d87302.chunk.css.map"
+  }
+}
